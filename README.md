@@ -2,7 +2,7 @@ blockchain for dummies
 
 Este repositório é um guia prático para entender e implementar uma blockchain do zero usando TypeScript. Abordaremos desde os conceitos fundamentais até a construção de uma blockchain funcional.
 
-#Tópicos
+# Tópicos
 
 1. O que é Blockchain?
 
