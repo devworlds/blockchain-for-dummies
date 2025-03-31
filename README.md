@@ -1,8 +1,7 @@
-blockchain for dummies
-
+# Blockchain For Dummies
 Este repositório é um guia prático para entender e implementar uma blockchain do zero usando TypeScript. Abordaremos desde os conceitos fundamentais até a construção de uma blockchain funcional.
 
-# Tópicos
+## Tópicos
 
 1. O que é Blockchain?
   - Blockchain é um sistema descentralizado que permite o registro de transações de forma segura e imutável. Cada bloco contém um conjunto de transações, um hash do bloco anterior e um timestamp, garantindo integridade e transparência.
